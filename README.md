@@ -54,7 +54,7 @@ I am a Software Engineering student and Data Analyst with practical experience t
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/yofran-lizcano/))
-- 🌐 **Interactive Portfolio:** [View My Power BI Dashboards & Case Studies](https://forest-birthday-6ef.notion.site/Yofran-Lizcano-Data-Analyst-Portfolio-40be0a927dd1809fadfedae0621427e1) *(In Development)*
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://tu-enlace-de-notion.notion.site](https://forest-birthday-6ef.notion.site/Yofran-Lizcano-Data-Analyst-Portfolio-40be0a927dd1809fadfedae0621427e1))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yh.lizcano@gmail.com)
 
 - 📈 **Key Focus Areas:** Executive Dashboards, KPI Tracking, Inventory Analysis, and Cost Optimization.
